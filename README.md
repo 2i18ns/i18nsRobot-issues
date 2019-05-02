@@ -6,6 +6,7 @@ I18nsrobot is an one-click Android Studio/ IntelliJ IDEA plugin to i18n your And
 
 
 this plugin's ui is inspired by the https://github.com/westlinkin/AndroidLocalizationer
+[Document is here](https://i18ns.com/plugin.html)
 
 ## How to use it.
 
