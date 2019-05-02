@@ -9,6 +9,8 @@ this plugin's ui is inspired by the https://github.com/westlinkin/AndroidLocaliz
 
 ## How to use it.
 
+![img](https://raw.githubusercontent.com/2i18ns/i18nsRobot-issues/master/plugin-guide.gif)
+
 1. Right click the strings resource file, choose 'Translate strings'.
 ![img](https://raw.githubusercontent.com/2i18ns/i18nsRobot-issues/master/guide2.png)
 
