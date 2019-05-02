@@ -5,8 +5,8 @@ This project is used to tracking the i18nsrobot plugin issues
 I18nsrobot is an one-click Android Studio/ IntelliJ IDEA plugin to i18n your Android app, translate your strings to otherlanguage automactically.
 
 
-this plugin's ui is inspired by the https://github.com/westlinkin/AndroidLocalizationer
-[Document is here](https://i18ns.com/plugin.html)
+this plugin's ui is inspired by the https://github.com/westlinkin/AndroidLocalizationer <br>
+[Full Document is here](https://i18ns.com/plugin.html)
 
 ## How to use it.
 
